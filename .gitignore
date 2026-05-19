@@ -182,3 +182,4 @@ make.bat
 .readthedocs.yaml
 source/
 # quantvn/vn/data
+.env
